@@ -1,0 +1,49 @@
+# Built application files
+*.apk
+*.aab
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+*/build/
+**/build/
+
+# Gradle files
+.gradle/
+.kotlin/
+
+# Local configuration files
+local.properties
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Keystore files & credentials
+*.jks
+*.keystore
+debug.keystore
+
+# Google Services
+google-services.json
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# OS-specific files
+.DS_Store
+Thumbs.db

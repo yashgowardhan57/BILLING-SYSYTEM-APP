@@ -1,0 +1,6 @@
+{
+  "name": "Escape Clothing",
+  "description": "Mobile Clothing POS & Shop Management System for Escape Clothing, Butibori",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
